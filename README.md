@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on @ioasys on Instagram
+- 🌱 I’m currently learning React and React Native and your ecosystem
+- 📫 How to reach me: @clizioguedes on Instagram
+
 <!--
 **clizioguedes/clizioguedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
