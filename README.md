@@ -4,7 +4,7 @@ Meu nome é Clizio Guedes e sou do Brasil (🇧🇷). Trabalho como Desenvolvedo
 
 <div>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clizioguedes&layout=compact)
+  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=clizioguedes&layout=compact)
   
 </div>
 
