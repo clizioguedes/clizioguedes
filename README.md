@@ -1,6 +1,6 @@
 ## Olá eu sou o Clizio, dev frontend
 
-Meu nome é Clizio Guedes e sou do Brasil (🇧🇷). Trabalho como Desenvolvedor Front-End / Fullstack desde 2019. Atualmente trabalho como Front End Engineer. :)
+Meu nome é Clizio Guedes e sou do Brasil (🇧🇷). Trabalho como Desenvolvedor Front-End / Fullstack desde 2018. Atualmente trabalho como Front End Engineer. :)
 
 <div>
   
