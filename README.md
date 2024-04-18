@@ -1,11 +1,9 @@
-## Olá eu sou o Clizio, dev frontend
+## Hello, I'm Clizio, a frontend dev
 
-Meu nome é Clizio Guedes e sou do Brasil (🇧🇷). Trabalho como Desenvolvedor Front-End / Fullstack desde 2018. Atualmente trabalho como Front End Engineer. :)
+My name is Clizio Guedes and I'm from Brazil (🇧🇷). I work as a Front-End / Fullstack Developer since 2018. Currently, I work as a Front End Engineer. :)
 
-<div>
-  
+<div>  
   ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=clizioguedes&layout=compact)
-  
 </div>
 
 <div style="display: inline_block"><br>
@@ -23,5 +21,4 @@ Meu nome é Clizio Guedes e sou do Brasil (🇧🇷). Trabalho como Desenvolvedo
   <a href="https://instagram.com/clizioguedes" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
   <a href = "mailto:clizioguedes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
   <a href="https://www.linkedin.com/in/clizioguedes" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> 
-  
 </div>
